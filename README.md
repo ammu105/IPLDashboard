@@ -12,7 +12,7 @@ This project is an interactive Power BI Dashboard analyzing IPL cricket data. It
 - **Excel / CSV:** To store IPL match data
 - **DAX:** To calculate and show insights
 ## Dashboard
-![IPLDashboard_performance](https://github.com/ammu105/IPLDashboard/blob/main/IPLDashboard__performance)
+![IPLDashboard_performance](https://github.com/ammu105/IPLDashboard/blob/main/IPLDashboard_performance_Team_stats)
 ## 📊 Dataset
 The IPL dataset used in this project was sourced from **[Kaggle](https://www.kaggle.com/)**.  
 It contains detailed match information, including teams, players, scores, venues, and results across multiple seasons.
